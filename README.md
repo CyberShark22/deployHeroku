@@ -10,4 +10,4 @@
 ### Specific problems are known as I am using windows and some of the commands are different than the ones we were shown.
 
 # How would you improve it if you had more time?
-### I would add more about how to deploy a file using heroku.
+### I would add a video tutorial about deploying a site to heroku using node.js.
